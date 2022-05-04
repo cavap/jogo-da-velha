@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+.campo {
+    text-align: center;
+    width: 50px;
+    background: gray;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#reiniciar {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: gray;
+    cursor: pointer;
+}
